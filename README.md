@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Lord of Mysteries Banner" width="100%">
+  <img src="./banner.png" alt="Lord of Mysteries Banner" width="100%">
 </p>
 
 <h1 align="center">👑 Jirapat Kongkatonyoosakul</h1>
