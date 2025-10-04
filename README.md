@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.jpg" alt="Lord of Mysteries Banner" width="100%">
-</p>
-
 <h1 align="center">👑 Jirapat Kongkatonyoosakul</h1>
 <h3 align="center">“Unraveling the Mysteries of Intelligence — One Model at a Time.”</h3>
 
@@ -46,10 +41,6 @@
 > “In the mist of mysteries, one must become the mystery.”
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jirapat-K-F/Jirapat-K-F/main/throne-divider.png" width="60%">
-</p>
 
 <p align="center">
   <i>“Knowledge is power — and power must be concealed.”</i>
