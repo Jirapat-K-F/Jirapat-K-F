@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jirapat Kongkatonyoosakul</h1>
-<h3 align="center">A passionate AI developer and Data sci student from Thailand</h3>
+<h3 align="center">A passionate AI and Data Science student from Thailand</h3>
 
 - 🔭 I’m currently working on [RAG_LLM](https://github.com/Jirapat-K-F/RAG_LLM)
 
