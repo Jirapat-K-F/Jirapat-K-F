@@ -27,15 +27,6 @@
 
 ---
 
-### 🪄 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jirapat-K-F&show_icons=true&theme=radical&bg_color=0,0b0c10,1f2833&title_color=66fcf1&text_color=c5c6c7&icon_color=45a29e" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirapat-K-F&layout=compact&theme=radical&bg_color=0,0b0c10,1f2833&title_color=66fcf1&text_color=c5c6c7&hide=jupyter%20notebook" alt="Top Languages"/>
-</p>
-
----
-
 ### 🕯️ Quote of the Day
 
 > “In the mist of mysteries, one must become the mystery.”
